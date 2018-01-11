@@ -8,7 +8,7 @@ if [ $# -eq 0 ]
     echo -e "\033[2mBasic Usage\033[0m"
     echo -e "\033[1mbash extract_thin.sh AppName fat trim\033[0m"
     echo ""
-    echo -e "\033[2mAdvanced Usage - path thin binaries\033[0m"
+    echo -e "\033[2mAdvanced Usage - patch thin binaries\033[0m"
     echo -e "\033[1mbash extract_thin.sh AppName\033[0m"
     echo ""
     echo -e "\033[2mAdvanced Usage - keep plugins\033[0m"
