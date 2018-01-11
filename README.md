@@ -15,7 +15,7 @@ It's convenient tool to swiftly repack .ipa to assist with patching binaries.
 3. Use <b>extract_thin.sh</b>
 ![workdir](/screenshots/extract_thin.png?raw=true)
 4. This is step when you take neccessary steps with thin binaries as you wish.
-5. Repacking <b>replace_bin.sh</b>
+5. Repacking, use <b>replace_bin.sh</b>
 <br>![workdir](/screenshots/replace_bin.png?raw=true)
 6. Install app to Jailbroken device or Non-Jailbroken with [Cydia Impactor](http://www.cydiaimpactor.com)
 
