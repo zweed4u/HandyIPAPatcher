@@ -9,6 +9,8 @@ It's convenient tool to swiftly repack .ipa to assist with patching binaries.
 
 ![workdir](/screenshots/workdir.png?raw=true)
 
+HandyIPAPatcher is meant only for educational purposes and security research.
+
 ## Usage
 1. Acquire needed decrypted IPA file. It can be downloaded from [IphoneCake](https://www.iphonecake.com) or prepared manually by using [Clutch](https://github.com/KJCracks/Clutch)
 2. Copy IPA file to <b>HandyIPAPatcher</b> directory. Duplicate and rename it to <b>app.ipa</b>
