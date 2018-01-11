@@ -11,7 +11,7 @@ It's convenient tool to swiftly repack .ipa to assist with patching binaries.
 
 ## Usage
 1. Acquire needed decrypted IPA file. It can be downloaded from [IphoneCake](https://www.iphonecake.com) or prepared manually by using [Clutch](https://github.com/KJCracks/Clutch)
-2. Copy IPA file to <b>HandyIPAPatcher</b> directory. Copy and rename it to <b>app.ipa</b>
+2. Copy IPA file to <b>HandyIPAPatcher</b> directory. Duplicate and rename it to <b>app.ipa</b>
 3. Use <b>extract_thin.sh</b>
 ![workdir](/screenshots/extract_thin.png?raw=true)
 4. This is step when you take care neccessary steps with thin binaries as you wish.
