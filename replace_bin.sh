@@ -50,10 +50,10 @@ if [ -d "tmp_frameworks" ]
  			cp $base "../tmp/Payload/$1.app/Frameworks/$base".framework/$base
 		fi
     done
+    cd ..
 else
 	echo "No frameworks to pack"
 fi
-cd ..
 echo "Patching done. Binaries replaced"
 rm $BASE_IPA
 if [ "$3" = "trim" ]
