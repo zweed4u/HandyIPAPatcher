@@ -13,7 +13,7 @@ HandyIPAPatcher is meant only for educational purposes and security research.
 
 ## Usage
 1. Download needed decrypted IPA file. It can be downloaded from [IphoneCake](https://www.iphonecake.com) or prepared manually by using [Clutch](https://github.com/KJCracks/Clutch)
-2. Copy IPA file to <b>HandyIPAPatcher</b> directory. Before running make sure there only one IPA file at time!
+2. Copy IPA file to <b>HandyIPAPatcher</b> directory. Before running make sure there is only one input IPA file at time, app.ipa and orginal_app.ipa can remain!
 3. Use <b>bash extract_thin.sh help</b>
 ![workdir](/screenshots/extract_thin.png?raw=true)
 4. This is step when you work with binaries
